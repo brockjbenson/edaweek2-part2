@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// We create a variable called name and set it to 'Dane' as a value
-// We check if name is an exact match to 'Mary'
-// If true, we console.log 'Hi, Mary' and if else we console.log 'How do you do?'
-// It is false so we console.log 'How do you do?'
+// We create a variable called name and set it to 'Dane' as a value.
+// We check if name is an exact match to 'Mary'.
+// If true, we console.log 'Hi, Mary' and if else we console.log 'How do you do?'.
+// It is false so we console.log 'How do you do?'.
 
 //CODE
 /*
@@ -45,10 +45,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We create a variable with the name secret and have left the value blank, and then we created another value with the name code and set a number of '123'.
+// We check if code is an exact match to '123', it is so var 'secret' will have a value of 'super'.
+// We check if code is greater than 250, it is so var 'secret' will now have a value of 'duper'.
+// We console.log var 'secret' which will output 'duper'.
 
 //CODE
 /*
