@@ -45,8 +45,8 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// We create a variable with the name secret and have left the value blank, and then we created another value with the name code and set a number of '123'.
-// We check if code is an exact match to '123', it is so var 'secret' will have a value of 'super'.
+// We create a variable with the name secret and have left the value blank, and then we created another value with the name code and set a number of 123.
+// We check if code is an exact match to 123, it is so var 'secret' will have a value of 'super'.
 // We check if code is greater than 250, it is so var 'secret' will now have a value of 'duper'.
 // We console.log var 'secret' which will output 'duper'.
 
@@ -70,10 +70,10 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We create a var nameed 'isStudent' and set a boolean of true, We create a var named 'age' and set a number of 34, and we create a var named 'zip' and set a number of 55047.
+// We check if 'isStudent' is an exact match to the boolean true and that 'zip' is greater than 80000. 'isStudent' is true but 'zip' is less than 80000 so we ignore the preceeding console.log.
+// We check if 'isStudent' is an exact match to the boolean false or that 'age' is less than 30. Neither is true so we ignore the preceeding console.log.
+// We check if 'isStudent' is an exact match to the boolean true. It is so we console.log 'Welcome to Prime!'.
 
 //CODE
 /*
