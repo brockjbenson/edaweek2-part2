@@ -134,6 +134,8 @@ let colorOne = 'red';
 let colorTwo = 'blue';
 let mix = true;
 
+// Fix - they asked for both colorOne and colorTwo to be set to purple. We should add colorTwo = 'purple'; under colorOne = 'purple';
+
 if (mix === true) {
   colorOne = 'purple';
 }
