@@ -47,8 +47,8 @@ if (name === 'Mary') {
 // 2. WRITE YOUR DESCRIPTION HERE
 // We create a variable with the name secret and have left the value blank, and then we created another value with the name code and set a number of 123.
 // We check if code is an exact match to 123, it is so var 'secret' will have a value of 'super'.
-// We check if code is greater than 250, it is so var 'secret' will now have a value of 'duper'.
-// We console.log var 'secret' which will output 'duper'.
+// We check if code is greater than 250, it isn't so var 'secret' will now have a value of 'super'.
+// We console.log var 'secret' which will output 'super'.
 
 //CODE
 /*
@@ -134,7 +134,7 @@ let colorOne = 'red';
 let colorTwo = 'blue';
 let mix = true;
 
-// Fix - they asked for both colorOne and colorTwo to be set to purple. We should add colorTwo = 'purple'; under colorOne = 'purple';
+// Fix - colorOne should be = to blue and colorTwo should be = to red. They asked for both colorOne and colorTwo to be set to purple. We should add colorTwo = 'purple'; under colorOne = 'purple';
 
 if (mix === true) {
   colorOne = 'purple';
@@ -164,7 +164,7 @@ if (temp > 39 || time >= 4) {
 let age = 21;
 const minAge = 21;
 
-// Fix -- it is asking to see if age is greater than or equal to min age. It should be written if(age >= minAge). It was first written asking if minAge was less than or equal to age. 
+// Fix -- We need to swap the console.log('enter') to be the first option in the if statement. It is true so it will output enter.
 
 if(minAge <= age) {
   console.log('no entry');
